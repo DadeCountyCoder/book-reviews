@@ -1,3 +1,4 @@
+# Manages reviews-based routing, helpers, sessions
 class ReviewsController < ApplicationController
 
   # GET: /reviews

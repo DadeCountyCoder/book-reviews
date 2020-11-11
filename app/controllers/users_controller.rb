@@ -1,3 +1,5 @@
+# Manages user-based routing, helpers, sessions
+
 class UsersController < ApplicationController
 
   
